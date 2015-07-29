@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2015\Projects\ClassEmployee\ClassEmployee\bin\Debug\ClassEmployee.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassEmployee\ClassEmployee\bin\Debug\ClassEmployee.pdb
+c:\users\user\documents\visual studio 2015\Projects\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.dll
+c:\users\user\documents\visual studio 2015\Projects\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.pdb
+c:\users\user\documents\visual studio 2015\Projects\ClassEmployee\ClassEmployee\obj\Debug\ClassEmployee.csprojResolveAssemblyReference.cache
